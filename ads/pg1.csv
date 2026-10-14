@@ -1,0 +1,4 @@
+Action,Campaign,Ad group,Product group,Max CPC,Status
+Edit,VH_US_SHOPPING_COLD_TEST_V1,Cold,* / Item ID = *,,Excluded
+Edit,VH_US_SHOPPING_COLD_TEST_V1,Cold,All products / Item ID = *,,Excluded
+Edit,VH_US_SHOPPING_COLD_TEST_V1,Cold,Everything else in "All products",,Excluded
